@@ -1,0 +1,15 @@
+
+There are many different types of Python
+
+1. cpython
+2. jython
+3. ironpython
+4. pypy
+5. rubypython
+6. anacondapython
+
+To compile the python file
+>> python3 -m py_compile file-name
+
+To see the byte code of python file
+>> python3 -m dis file-name
