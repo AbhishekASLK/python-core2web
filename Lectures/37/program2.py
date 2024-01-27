@@ -1,0 +1,5 @@
+print("Hello World")
+print(TypeError)
+print('2'+10)
+print(x)
+print(10/spam*10)
