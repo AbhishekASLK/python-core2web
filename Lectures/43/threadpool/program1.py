@@ -7,6 +7,7 @@ def work2():
     print('work2')
 
 tp = concurrent.futures.ThreadPoolExecutor()
+# print(type(tp))
 print(tp._max_workers)
 
 '''
